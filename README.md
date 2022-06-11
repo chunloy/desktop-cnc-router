@@ -57,21 +57,28 @@ Each part was modelled in Fusion 360 and designed to eliminate the need for supp
 ## The Build
 Below are photos of the assembly process, and I'm proud to report a successful build on the first attempt!
 
+
 ### The Feet & Bottom Clamps
 ![A5F1A762-33D5-4341-9016-7E24A2C5A2BA_1_105_c](https://user-images.githubusercontent.com/101907461/173201833-ea858c31-22a7-4038-b8d9-248c2d399597.jpeg)
+
+
 
 ### Trucks & Motor
 ![75F4B961-A491-4A60-92C0-F64122977AA4_1_105_c](https://user-images.githubusercontent.com/101907461/173201902-c9a6ab77-8769-4918-a4a6-eae3f06b97ae.jpeg)
 
+
 ![B3527891-3A84-4063-95D1-094345EC5985_1_105_c](https://user-images.githubusercontent.com/101907461/173201905-706d7772-d1cb-4863-a349-c0f540b5ae8d.jpeg)
 
-### Core
+
+
+### The Core
 ![A9A1C5E1-FFBC-4B91-8319-85EFFDDCF40C_1_105_c](https://user-images.githubusercontent.com/101907461/173201935-a5f376e5-09ad-44d7-8ace-835d6afb7384.jpeg)
+
+
 
 ### Completed Assembly
 ![77958E04-E4F3-4A5C-9B24-DC7824D32903_1_105_c](https://user-images.githubusercontent.com/101907461/173201980-783f0dd8-830c-48ab-bb18-981d21827e49.jpeg)
 
-![It_moves_AdobeExpress](https://user-images.githubusercontent.com/101907461/173202091-564cbb3d-ca87-4a1c-9d92-5701a5a9d931.gif)
 
 ## Upcoming Work
 So far, the machine is built and is functional. However, there are a few pending items:
