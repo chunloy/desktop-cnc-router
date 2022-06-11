@@ -55,7 +55,7 @@ Each part was modelled in Fusion 360 and designed to eliminate the need for supp
 
 
 ## The Build
-Below are photos of the assembly process, and I'm proud to report a successful build on the first attempt!
+The total build time for this machine was approximately 20 hours, with most of the time spent making adjustments to ensure proper alignment and engagement between moving and mating components.
 
 
 ### The Feet & Bottom Clamps
