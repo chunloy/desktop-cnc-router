@@ -20,11 +20,11 @@ Introducing my very own custom-built CNC router! The foundation of this machine 
 * Working footprint: 17.75in x 13in x 3.25in
 
 ### Mechanical:
-* 8mm bearings
-* 10mm GT2 belts 
+* 8mm bearings 
 * X/Y axes:
   * 16T GT2 pulleys 
   * 20T GT2 idlers
+  * 10mm GT2 belts
 * Z axis:
   * T8 leadscrew and nut (4 start, 2mm pitch, 8mm/rev)
   * 5mm to 8mm coupler
