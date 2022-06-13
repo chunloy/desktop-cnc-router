@@ -4,6 +4,8 @@
 
 ## Introduction
 
+As the title suggests, this README is about my creation process of a desktop CNC router. First, I'll discuss why I decided to build this and the process that went into its construction. This project challenged me to learn different workflow patterns in new CAD software (Fusion 360) and design principles related to 3D printing. I had a lot of fun throughout this process and hope this project inspires you to tinker with your creations. 
+
 The motivation for this project stems from my passion for microcontrollers. Previously my prototypes relied on many jumper wires and breadboards, which were not appealing. I needed a way to make custom circuit boards so my devices could be more compact. Additionally, I wanted the option to work with other materials such as acrylic, wood, and aluminum. All of this sounds like a job for a CNC! But what does CNC mean? CNC stands for *computer numerical control* and refers to any machining tool whose motion is controlled by a computer. 3D printing is an example of a CNC.
 
 Entry-level CNCs are becoming quite popular among the hobbyist community, but there are two problems:
@@ -11,7 +13,7 @@ Entry-level CNCs are becoming quite popular among the hobbyist community, but th
 1. the working volume is too small for the price
 2. the frame is not rigid enough to machine harder materials (metals)
 
-Introducing my very own custom-built CNC router! The foundation of this machine relies upon steel tubing for the frame, custom 3D printed parts for joints, linear guides (trucks), and a tool head mount. In addition, I designed this machine to support additive and subtractive manufacturing processes such as 3D printing, milling, and laser cutting. For machining, I will be using a Makita compact router. Lastly, the working volume is customizable simply by changing the lengths of the tubing.
+Introducing my very own custom-built CNC router! The foundation of this machine relies upon steel tubing for the frame, custom 3D printed parts for joints, linear guides (trucks), and a tool head mount. In addition, I designed this machine to support additive and subtractive manufacturing processes such as 3D printing, milling, and laser cutting. For milling, I will be using a Makita compact router. Beyond this, the working volume is customizable simply by changing the lengths of the tubing.
 
 ## Some Specs
 
