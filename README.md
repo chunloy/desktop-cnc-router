@@ -43,7 +43,7 @@ Introducing my very own custom-built CNC router! The foundation of this machine 
 
 
 ## 3D Printed Parts
-![All Parts](https://user-images.githubusercontent.com/101907461/173199451-f69baf74-a273-4926-ae92-d8a026a406b6.jpeg)
+![image](https://user-images.githubusercontent.com/101907461/198890481-47d6d8d3-6e80-42f0-b38b-4c262144c8e1.jpeg)
 
 Each part was modelled in Fusion 360 and designed to eliminate the need for support material. All components were printed on an Ender 3 Pro with an infill ranging from 50%-70% using standard PLA filament. The total printing time for this project exceeded 200 hours due to the number of parts required. Below are some timelapses for this project. Enjoy!
 
