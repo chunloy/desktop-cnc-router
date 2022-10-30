@@ -1,6 +1,6 @@
 # Desktop CNC Router
 
-![Completed build](https://user-images.githubusercontent.com/101907461/173199412-cda32b4c-4a96-4f4e-9c13-d15074b31326.jpeg)
+![image](https://user-images.githubusercontent.com/101907461/198864499-5bbf4c53-9ba6-46de-b318-ab3bd06fe02f.jpeg)
 
 ## Introduction
 
