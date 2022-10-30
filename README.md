@@ -51,33 +51,6 @@ Each part was modelled in Fusion 360 and designed to eliminate the need for supp
 
 ![Corner Clamp](https://user-images.githubusercontent.com/101907461/173200221-dbace96f-fda9-4c0a-9e75-737fbe668859.gif)  ![Trucks](https://user-images.githubusercontent.com/101907461/173200427-d1020b83-f579-41f8-9204-99e1c090c365.gif)  ![Z Core](https://user-images.githubusercontent.com/101907461/173200385-c04da978-d328-40c5-ae69-8d98b155f2ae.gif)
 
-
-## The Build
-The total build time for this machine was approximately 20 hours, with most of the time spent making adjustments to ensure proper alignment and engagement between moving and mating components.
-
-
-### The Feet & Bottom Clamps
-![A5F1A762-33D5-4341-9016-7E24A2C5A2BA_1_105_c](https://user-images.githubusercontent.com/101907461/173201833-ea858c31-22a7-4038-b8d9-248c2d399597.jpeg)
-
-
-
-### Trucks & Motor
-![75F4B961-A491-4A60-92C0-F64122977AA4_1_105_c](https://user-images.githubusercontent.com/101907461/173201902-c9a6ab77-8769-4918-a4a6-eae3f06b97ae.jpeg)
-
-
-![B3527891-3A84-4063-95D1-094345EC5985_1_105_c](https://user-images.githubusercontent.com/101907461/173201905-706d7772-d1cb-4863-a349-c0f540b5ae8d.jpeg)
-
-
-
-### The Core
-![A9A1C5E1-FFBC-4B91-8319-85EFFDDCF40C_1_105_c](https://user-images.githubusercontent.com/101907461/173201935-a5f376e5-09ad-44d7-8ace-835d6afb7384.jpeg)
-
-
-
-### Completed Assembly
-![77958E04-E4F3-4A5C-9B24-DC7824D32903_1_105_c](https://user-images.githubusercontent.com/101907461/173201980-783f0dd8-830c-48ab-bb18-981d21827e49.jpeg)
-
-
 ## Upcoming Work
 So far, the machine is built and is functional. However, there are a few pending items:
 1. Motor calibration to ensure precise motion
