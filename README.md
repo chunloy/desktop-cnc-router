@@ -52,8 +52,7 @@ Each part was modelled in Fusion 360 and designed to eliminate the need for supp
 ![Corner Clamp](https://user-images.githubusercontent.com/101907461/173200221-dbace96f-fda9-4c0a-9e75-737fbe668859.gif)  ![Trucks](https://user-images.githubusercontent.com/101907461/173200427-d1020b83-f579-41f8-9204-99e1c090c365.gif)  ![Z Core](https://user-images.githubusercontent.com/101907461/173200385-c04da978-d328-40c5-ae69-8d98b155f2ae.gif)
 
 ## Upcoming Work
-So far, the machine is built and is functional. However, there are a few pending items:
-1. Motor calibration to ensure precise motion
-2. Designing and 3D printing enclosures for the control board, screen and emergency stop
-3. Implementing a web interface to control and monitor the machine using a computer
+So far, the machine is built and is functional. However, there are some pending items:
+1. Designing and 3D printing enclosures for the control board, screen and emergency stop
+2. Implementing a web interface to control and monitor the machine using a computer
 
